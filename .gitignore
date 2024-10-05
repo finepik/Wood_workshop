@@ -211,4 +211,7 @@ ENV/
 # mkdocs documentation
 /site
 
+# uploads
+/wood_workshop/uploads
+
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
