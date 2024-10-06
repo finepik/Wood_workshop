@@ -30,8 +30,7 @@
     cd wood_workshop
     python manage.py migrate
     ```
-   
-5. **Запуск сервера**
+4. **Запуск сервера**
     ```bash
     python manage.py runserver
     ```
